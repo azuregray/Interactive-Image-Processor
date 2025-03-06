@@ -8,7 +8,7 @@
 ---
 ## Installation
 
-- ** All Requirements / Dependencies are in-built already in your Python Installation.**
+- **All Requirements / Dependencies are in-built already in your Python Installation.**
 
 - **How to run**
 

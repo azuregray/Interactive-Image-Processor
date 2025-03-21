@@ -1,10 +1,12 @@
-# W E B P &ensp; -> &ensp; P N G &ensp; Converter &ensp; Script
+# I n t e r a c t i v e &ensp; I m a g e &ensp; P r o c e s s o r &ensp; S c r i p t
 
 > Author: **`D A R S H A N  S`**
 
 > My Identity  ->>  [**`GitHub`**](https://github.com/azuregray/)
 
-#### Simply, a very interactive python script to convert WEBP files to PNG format. In stead of complex softwares to install..
+#### **`DECSRIPTION`** &ensp; A very interactive, single-file, integrated and optimized python-based image converter script used to recursively process images on-device, removing the need to third-party complex application installs.
+
+#### **`SPECIAL NOTE`** &ensp; Made for WEBP -> PNG Convertions. Please feel free to edit the script and use for other image formats manually.
 ---
 ## Installation
 
@@ -24,7 +26,7 @@ python WEBP-PNG_Converter.py
 
 - **URL for the origin repository is as below**
 
-> https://github.com/azuregray/WEBP-to-PNG-Converter
+> https://github.com/azuregray/Interactive-Image-Processor
 
 ---
 

@@ -20,7 +20,7 @@
 
 > Assuming you are inside the cloned folder, Just run this:
 ```
-python WEBP-PNG_Converter.py
+python InteractiveImageProcessor.py
 ```
 ---
 
